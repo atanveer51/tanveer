@@ -1,0 +1,40 @@
+.bd
+{
+	background-color: aqua;
+}
+.jumb
+{
+	height: 500px;
+}
+
+
+#navi li a:hover { 
+    background-color:deepskyblue;
+}
+
+#header1
+{
+	background-color: red;
+	color: red;
+	height: 110px;
+}
+
+	 .footer
+{
+	background-color: black;
+}
+.hd1
+{
+	color: blue;
+}
+.pr1
+{
+	color:deeppink;
+}
+#newsupdate
+{
+	
+	background-color:deepskyblue;
+	height:493px;
+	width: 373px;
+}
